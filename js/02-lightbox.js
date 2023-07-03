@@ -21,6 +21,3 @@ container.insertAdjacentHTML('beforeend', markup.join(''));
 let lightbox = new SimpleLightbox('.gallery a', {
     captionsData: 'alt', captionPosition: 'bottom', captionDelay: 250
 });
-lightbox = new SimpleLightbox('.gallery a', {
-  captionsData: 'alt', captionPosition: 'bottom', captionDelay: 250
-});
